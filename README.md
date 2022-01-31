@@ -5,7 +5,7 @@
 [My Minecraft mods](https://www.curseforge.com/members/teamdman/projects)
 
 <!-- Inspired by https://github.com/moepoi -->
-![TeamDman's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
+![TeamDman's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=TeamDman)
 
 
 
