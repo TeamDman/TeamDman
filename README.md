@@ -1,8 +1,6 @@
 # Hi there 👋
 
-[My site](https://teamdman.ca/)
-
-[My Minecraft mods](https://www.curseforge.com/members/teamdman/projects)
+[My site](https://teamdman.ca/) | [My Discord](https://discord.gg/wgMQVxHcSR) | [My Minecraft mods](https://www.curseforge.com/members/teamdman/projects)
 
 <!-- Inspired by https://github.com/moepoi -->
 ![TeamDman's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=TeamDman)
