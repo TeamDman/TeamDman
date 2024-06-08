@@ -30,6 +30,14 @@ Here are some ideas to get you started:
 https://github.com/TheCubiq
 https://github.com/stong
 https://github.com/iGerman00
+https://github.com/search?q=path%3AREADME.md%20%5CmmlToken%7Bms%7D%5Bfontfamily%3D&type=code
+https://github.com/ayunami2000/ayunami2000/tree/fa628001711e3c4e8ae74a0e5076a5e62fc47702
+https://github.com/HAHALOSAH/HAHALOSAH
+https://github.com/hrtowii/hrtowii
+https://github.com/mantikafasi/mantikafasi
+https://github.com/rbih-boulanouar/rbih-boulanouar
+https://github.com/Terristwj/Terristwj
+
 -->
 ```math
 \mmlToken{ms}[fontfamily="
@@ -104,7 +112,7 @@ position: fixed;
 inset: 0;
 z-index: 100;
 font-size: 0.420rem;
-background: url(https://github.com/TheCubiq/TheCubiq/blob/main/ignore.gif?raw=true);
+background: url('https://github.com/ayunami2000/ayunami2000/raw/master/bg.svg');
 background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
