@@ -51,7 +51,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://raw.githubusercontent.com/TeamDman/TeamDman/main/background.jpg');
+background: url('https://raw.githubusercontent.com/TeamDman/TeamDman/master/background.jpg');
 "]{}
 
 \mmlToken{ms}[fontfamily="
@@ -112,7 +112,7 @@ position: fixed;
 inset: 0;
 z-index: 100;
 font-size: 0.420rem;
-background: url(https://github.com/TeamDman/TeamDman/blob/main/ignore.gif?raw=true);
+background: url(https://github.com/TeamDman/TeamDman/blob/master/ignore.gif?raw=true);
 background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
