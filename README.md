@@ -112,10 +112,15 @@ position: fixed;
 inset: 0;
 z-index: 100;
 font-size: 0.420rem;
-background: url('https://github.com/ayunami2000/ayunami2000/raw/master/bg.svg');
+background: url(https://github.com/TheCubiq/TheCubiq/blob/main/ignore.gif?raw=true);
 background-repeat: no-repeat;
 background-size: contain;
 opacity: 0.02;
 background-position-x: center;
+"]{}
+
+\mmlToken{ms}[fontfamily="
+madebycubiquwu;
+color:transparent;position:fixed;z-index:999999;top:0;left:0;height:100vh;pointer-events:none;object-fit:cover;width:100vw;opacity:1;background:url('https://github.com/ayunami2000/ayunami2000/raw/master/bg.svg');align-content:center;background-repeat:repeat;background-size:100% 100%;
 "]{}
 ```
