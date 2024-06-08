@@ -27,13 +27,9 @@ Here are some ideas to get you started:
 
 
 <!-- 
-https://github.com/stong
 https://github.com/TheCubiq
-
-  gotta do it till it works 💀
-  shoutout to @iGerman00 for showing me this <3
-
-  patched, keeping, one day maybe..
+https://github.com/stong
+https://github.com/iGerman00
 -->
 ```math
 \mmlToken{ms}[fontfamily="
