@@ -39,6 +39,8 @@ https://github.com/rbih-boulanouar/rbih-boulanouar
 https://github.com/Terristwj/Terristwj
 https://github.com/advnpzn/advnpzn
 -->
+<!--
+they fixed it :(
 ```math
 \mmlToken{ms}[fontfamily="
 madebycubiquwu;
@@ -110,3 +112,4 @@ madebycubiquwu;
 color:transparent;position:fixed;z-index:999999;top:0;left:0;height:100vh;pointer-events:none;object-fit:cover;width:100vw;opacity:1;background:url('https://github.com/TeamDman/TeamDman/raw/master/bg.svg');align-content:center;background-repeat:repeat;background-size:100% 100%;
 "]{}
 ```
+-->
