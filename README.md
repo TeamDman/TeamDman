@@ -1,11 +1,25 @@
-# Hi there 👋
+# Ahoy there! ⚓
 
-[My site](https://teamdman.ca/) | [My Discord](https://discord.gg/wgMQVxHcSR) | [My Minecraft mods](https://www.curseforge.com/members/teamdman/projects)
+I have a [website](https://teamdman.ca/)
+
+
+[![](https://cf.way2muchnoise.eu/full_306935_downloads.svg)](https://www.curseforge.com/members/teamdman/projects) <!-- todo: make this point to profile download count, endpoint having issues 2025-04-27 -->
+[![Discord](https://img.shields.io/discord/967118679370264627.svg?colorB=7289DA&logo=data:image/png)]([https://discord.gg/5mbUY3mu6m](https://discord.gg/wgMQVxHcSR))
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/TeamDman)](https://github.com/sponsors/TeamDman) 
+![profile view counter](https://komarev.com/ghpvc/?username=TeamDman) <!-- Inspired by https://github.com/laundmo -->
+
+
+
+
+
 
 <!-- Inspired by https://github.com/moepoi -->
-![TeamDman's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=TeamDman)
+[![TeamDman's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=TeamDman&bg_color=1a1c1f&text_color=9f9f9f)](https://github.com/Nekonify/github-readme-stats)
 
+<!-- Inspired by https://github.com/kckarnige -->
+<!-- from https://github.com/kckarnige/kckarnige/blob/a414d5549f55cced70aee906f9efa61544894ac4/README.md?plain=1#L27C14-L27C200 -->
 
+[![gh-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=teamdman&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TeamDman/TeamDman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=TeamDman)
-<!-- neat: https://github.com/laundmo -->
+
 
 
 <!-- 
